@@ -20,10 +20,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d87f3031-74d3-40ed-ac66-18fe4552dd96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/DataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/Demo01Const.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/DemoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/object/DemoStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/object/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/random/Demo2Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/random/DemoRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbingscanner/DemoScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/资料/常量变量/03-二进制与十进制的转换运算.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/资料/常量变量/04-计算机存储单位转换.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/资料/常量变量/08-关键字的概念举例和特征.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/资料/常量变量/09-数据类型分类.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaStudy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +59,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bhBbPkmWFCMhr3TIvCnoUWCciN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,15 +72,51 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Basics/资料/常量变量" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager">
-    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaStudy\Basics\资料\常量变量" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaStudy\Basics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Demo2Random">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array" />
+      <module name="javaStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo2Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wanghengbing.random.Demo2Random" />
+      <module name="javaStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wanghengbing.random.DemoRandom" />
+      <module name="javaStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wanghengbingscanner.DemoScanner" />
+      <module name="javaStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wanghengbing.object.DemoStudent" />
       <module name="javaStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,7 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.Demo2Random" />
+        <item itemvalue="Application.DemoRandom" />
+        <item itemvalue="Application.DemoScanner" />
+        <item itemvalue="Application.DemoStudent" />
+        <item itemvalue="Application.Array" />
       </list>
     </recent_temporary>
   </component>
@@ -81,8 +142,18 @@
       <workItem from="1589074517934" duration="77000" />
       <workItem from="1589074622725" duration="381000" />
       <workItem from="1589075018332" duration="43000" />
-      <workItem from="1589075072882" duration="117000" />
+      <workItem from="1589075072882" duration="2201000" />
+      <workItem from="1589077613881" duration="12157000" />
+      <workItem from="1589199101569" duration="6512000" />
     </task>
+    <task id="LOCAL-00001" summary="第二次">
+      <created>1589075208099</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589075208099</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,39 +166,80 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第二次" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="99" key="#Project_Structure" timestamp="1589074755250">
+    <state x="440" y="99" key="#Project_Structure" timestamp="1589079614126">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="440" y="99" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1589074755250" />
-    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1589074576516">
+    <state x="440" y="99" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1589079614126" />
+    <state x="779" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1589201337746">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1589074576516" />
-    <state width="1876" height="285" key="GridCell.Tab.0.bottom" timestamp="1589075167619">
+    <state x="779" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1589201337746" />
+    <state x="926" y="372" key="FileChooserDialogImpl" timestamp="1589077824774">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1589075167619" />
-    <state width="1876" height="285" key="GridCell.Tab.0.center" timestamp="1589075167619">
+    <state x="926" y="372" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1589077824774" />
+    <state width="1876" height="428" key="GridCell.Tab.0.bottom" timestamp="1589207085610">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1589075167619" />
-    <state width="1876" height="285" key="GridCell.Tab.0.left" timestamp="1589075167619">
+    <state width="1876" height="428" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1589207085610" />
+    <state width="1876" height="428" key="GridCell.Tab.0.center" timestamp="1589207085610">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1589075167619" />
-    <state width="1876" height="285" key="GridCell.Tab.0.right" timestamp="1589075167619">
+    <state width="1876" height="428" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1589207085610" />
+    <state width="1876" height="428" key="GridCell.Tab.0.left" timestamp="1589207085610">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589075167619" />
-    <state x="461" y="169" key="SettingsEditor" timestamp="1589075058450">
+    <state width="1876" height="428" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1589207085610" />
+    <state width="1876" height="428" key="GridCell.Tab.0.right" timestamp="1589207085610">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1589075058450" />
-    <state x="334" y="134" key="new project wizard" timestamp="1589074592679">
+    <state width="1876" height="428" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589207085610" />
+    <state width="1341" height="161" key="GridCell.Tab.1.bottom" timestamp="1589206422772">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="334" y="134" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1589074592679" />
+    <state width="1341" height="161" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1589206422772" />
+    <state width="1341" height="161" key="GridCell.Tab.1.center" timestamp="1589206422772">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1341" height="161" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1589206422772" />
+    <state width="1341" height="161" key="GridCell.Tab.1.left" timestamp="1589206422772">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1341" height="161" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1589206422772" />
+    <state width="1341" height="161" key="GridCell.Tab.1.right" timestamp="1589206422772">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1341" height="161" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589206422772" />
+    <state x="517" y="185" width="1038" height="852" key="SettingsEditor" timestamp="1589077829642">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="517" y="185" width="1038" height="852" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1589077829642" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1589075230988">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1589075230988" />
+    <state x="753" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589075219913">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="753" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1589075219913" />
+    <state x="334" y="134" key="new project wizard" timestamp="1589077447857">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="334" y="134" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1589077447857" />
+    <state x="820" y="343" key="run.anything.popup" timestamp="1589115998305">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="820" y="343" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1589115998305" />
+    <state x="1079" y="366" width="672" height="678" key="search.everywhere.popup" timestamp="1589200504924">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1079" y="366" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1589200504924" />
   </component>
 </project>
