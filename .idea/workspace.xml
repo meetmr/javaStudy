@@ -20,28 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d87f3031-74d3-40ed-ac66-18fe4552dd96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/DataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/Demo01Const.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/DemoArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/Variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/object/DemoStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/object/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/random/Demo2Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/random/DemoRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbingscanner/DemoScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/资料/常量变量/03-二进制与十进制的转换运算.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/资料/常量变量/04-计算机存储单位转换.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/资料/常量变量/08-关键字的概念举例和特征.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/资料/常量变量/09-数据类型分类.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/File/DemoFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/File/TestDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/object/AbstractDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/object/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/object/Salary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaStudy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,29 +52,44 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Basics/资料/常量变量" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.jdks" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\javaStudy\Basics\资料\常量变量" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\javaStudy\Basics" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.wanghengbing.File" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaStudy\Basics\资料\常量变量" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Demo2Random">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array" />
+  <component name="RunManager" selected="Application.AbstractDemo">
+    <configuration name="AbstractDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wanghengbing.object.AbstractDemo" />
       <module name="javaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wanghengbing.object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,6 +101,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DemoFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wanghengbing.File.DemoFile" />
+      <module name="javaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wanghengbing.File.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wanghengbing.random.DemoRandom" />
       <module name="javaStudy" />
@@ -108,29 +121,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wanghengbingscanner.DemoScanner" />
+    <configuration name="TestDog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wanghengbing.File.TestDog" />
       <module name="javaStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wanghengbing.object.DemoStudent" />
-      <module name="javaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wanghengbing.File.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AbstractDemo" />
+        <item itemvalue="Application.TestDog" />
+        <item itemvalue="Application.DemoFile" />
         <item itemvalue="Application.Demo2Random" />
         <item itemvalue="Application.DemoRandom" />
-        <item itemvalue="Application.DemoScanner" />
-        <item itemvalue="Application.DemoStudent" />
-        <item itemvalue="Application.Array" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -145,6 +160,7 @@
       <workItem from="1589075072882" duration="2201000" />
       <workItem from="1589077613881" duration="12157000" />
       <workItem from="1589199101569" duration="6512000" />
+      <workItem from="1589338637428" duration="6597000" />
     </task>
     <task id="LOCAL-00001" summary="第二次">
       <created>1589075208099</created>
@@ -155,6 +171,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -177,29 +196,46 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="440" y="99" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1589079614126" />
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1589349590352">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1589349590352" />
     <state x="779" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1589201337746">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="779" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1589201337746" />
-    <state x="926" y="372" key="FileChooserDialogImpl" timestamp="1589077824774">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="469" y="207" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1589340931923">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="469" y="207" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.834@0.0.1536.834" timestamp="1589340931923" />
+    <state x="511" y="270" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1589347254621">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="511" y="270" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1589347254621" />
+    <state x="741" y="295" key="FileChooserDialogImpl" timestamp="1589339200411">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="741" y="295" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1589339200411" />
     <state x="926" y="372" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1589077824774" />
-    <state width="1876" height="428" key="GridCell.Tab.0.bottom" timestamp="1589207085610">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom" timestamp="1589350059203">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589350059203" />
     <state width="1876" height="428" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1589207085610" />
-    <state width="1876" height="428" key="GridCell.Tab.0.center" timestamp="1589207085610">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1493" height="219" key="GridCell.Tab.0.center" timestamp="1589350059202">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589350059202" />
     <state width="1876" height="428" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1589207085610" />
-    <state width="1876" height="428" key="GridCell.Tab.0.left" timestamp="1589207085610">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1493" height="219" key="GridCell.Tab.0.left" timestamp="1589350059202">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589350059202" />
     <state width="1876" height="428" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1589207085610" />
-    <state width="1876" height="428" key="GridCell.Tab.0.right" timestamp="1589207085610">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1493" height="219" key="GridCell.Tab.0.right" timestamp="1589350059203">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589350059203" />
     <state width="1876" height="428" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589207085610" />
     <state width="1341" height="161" key="GridCell.Tab.1.bottom" timestamp="1589206422772">
       <screen x="0" y="0" width="1920" height="1050" />
@@ -217,14 +253,19 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1341" height="161" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589206422772" />
-    <state x="517" y="185" width="1038" height="852" key="SettingsEditor" timestamp="1589077829642">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="114" y="86" width="914" height="707" key="SettingsEditor" timestamp="1589339557310">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="114" y="86" width="914" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1589339557310" />
     <state x="517" y="185" width="1038" height="852" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1589077829642" />
     <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1589075230988">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1589075230988" />
+    <state x="485" y="309" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589339670154">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="485" y="309" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.834@0.0.1536.834" timestamp="1589339670154" />
     <state x="753" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589075219913">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
