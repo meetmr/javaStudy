@@ -6,9 +6,9 @@ import java.util.Scanner;
 public class Demo2Random {
     public static void main(String[] args) {
         int n ,i=0;
-        System.out.println("欢迎进入参数小游戏 系统将会随机生成1-100的数字，请猜猜是什么吧！");
+        System.out.println("欢迎进入猜数小游戏 系统将会随机生成1-100的数字，请猜猜是什么吧！");
         System.out.println("请输入一个数:");
-        n = new Scanner(System.in).nextInt();
+//        n = new Scanner(System.in).nextInt();
         int random_num = new Random().nextInt(100) +1;
         while (true){
             n = new Scanner(System.in).nextInt();
