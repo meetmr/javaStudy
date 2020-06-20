@@ -19,118 +19,38 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d87f3031-74d3-40ed-ac66-18fe4552dd96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/DataType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/Demo01Const.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/DemoArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/META-INF/javaStudy.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/Packing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/Variable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/list/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/list/MyCollection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/list/MyGenericClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/list/MyIterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/list/MyList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/list/PuKePai.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/list/linkList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/set/Kbcs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/set/MyHashCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/set/Myset.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/set/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/File/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/File/DemoFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/File/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/File/TestDog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/Override/Demo01Override.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/Override/Fu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/Override/Zi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/baozhuanglei/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/baozhuanglei/Demo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/date/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/date/Demo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/date/MyCalendar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/date/MyDateFormat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/envelopes/Envelopes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/envelopes/NormalMode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/envelopes/RandomMode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/envelopes/RedMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/equals/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/hashmap/MyHashMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/inside/Amin$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/inside/Amin$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/inside/Amin$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/inside/Amin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/inside/Myintrrface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/inside/People$1Demo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/inside/People$Heart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/inside/People.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/morphic/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/morphic/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/morphic/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/morphic/HuaSong.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/morphic/Keyboard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/morphic/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/morphic/Mouse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/morphic/Notebook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/morphic/Usb.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/myInterfaceAbs/MyInterfaceAbs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/myInterfaceAbs/MyRectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/myInterfaceAbs/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/mythread/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/mythread/Demo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/mythread/Demo3$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/mythread/Demo3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/mythread/Demo4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/mythread/DemoMyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/mythread/DemoMyThread2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/mythread/DemoMyThread3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/mythread/MyRunnable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/mythread/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/mythread/Threadstatus$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/mythread/Threadstatus$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/mythread/Threadstatus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/object/AbstractDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/object/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/object/Salary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/object/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/objectarray/DemoArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/objectarray/DemoArrayBasic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/objectarray/DemoArrayList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/objectarray/DemoListRandom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/objectarray/People.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/objectcy/Hero.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/objectcy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/objectcy/Weapon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/random/Demo2Random.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/random/DemoRandom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/red/OpenMode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/red/RedPacketFrame$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/red/RedPacketFrame$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/red/RedPacketFrame$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/red/RedPacketFrame$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/red/RedPacketFrame$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/red/RedPacketFrame$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/red/RedPacketFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/string/Demo04String.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/string/Demo2String.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/string/Demo3String.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/string/DemoString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/stringbuider/MySringBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/stringbuider/MySringBuilderDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/system/MySystem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbingscanner/DemoScanner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/mythread/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/mythread/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/mythread/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/mythread/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/mythread/DemoMyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/mythread/DemoMyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/mythread/DemoMyThread3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/mythread/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/mythread/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/src/com/wanghengbing/mythread/ThreadStatus.java" afterDir="false" />
+    <list default="true" id="d87f3031-74d3-40ed-ac66-18fe4552dd96" name="Default Changelist" comment="线程">
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/file/buff/DemoFileBuff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/file/chase/Demo1Charset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/file/chase/Demo2charestReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/file/io/Demo1OutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/file/io/Demo3FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/file/io/DemoFileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/file/io/DemoInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/file/io/DemoOutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/fileio/file/FileDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/fileio/file/FileDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/fileio/file/FileDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/fileio/file/FileDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/fileio/file/FileDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/lambad/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/lambad/Cook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/lambad/LambadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/lambad/LambadDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/lambad/LamvadDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/lambad/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/lambad/lambadDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/objectfile/DemoObjectInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/objectfile/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/objectfile/demoObjectOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/prop/Demo1Prop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/threadpool/DemoThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/src/com/threadpool/RunableImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/mythread/Threadstatus$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/mythread/Threadstatus$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/mythread/Threadstatus$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/mythread/Threadstatus$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/mythread/Threadstatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/out/production/javaStudy/com/wanghengbing/mythread/Threadstatus.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +87,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -176,6 +96,7 @@
       <recent name="D:\javaStudy\Basics\资料\常量变量" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.file.io" />
       <recent name="com.wanghengbing.mythread" />
       <recent name="com.wanghengbing.stringbuider" />
       <recent name="com.wanghengbing.morphic" />
@@ -184,37 +105,37 @@
       <recent name="D:\javaStudy\Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Threadstatus">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wanghengbing.mythread.Demo" />
+  <component name="RunManager" selected="Application.demoObjectOutput">
+    <configuration name="Demo1Charset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.file.chase.Demo1Charset" />
       <module name="javaStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wanghengbing.mythread.Demo2" />
+    <configuration name="Demo2charestReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.file.chase.Demo2charestReader" />
       <module name="javaStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wanghengbing.mythread.Demo3" />
+    <configuration name="DemoFileBuff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.file.buff.DemoFileBuff" />
       <module name="javaStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wanghengbing.mythread.Demo4" />
+    <configuration name="DemoObjectInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.objectfile.DemoObjectInput" />
       <module name="javaStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Threadstatus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wanghengbing.mythread.Threadstatus" />
+    <configuration name="demoObjectOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.objectfile.demoObjectOutput" />
       <module name="javaStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -222,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Threadstatus" />
-        <item itemvalue="Application.Demo4" />
-        <item itemvalue="Application.Demo3" />
-        <item itemvalue="Application.Demo2" />
-        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.demoObjectOutput" />
+        <item itemvalue="Application.DemoObjectInput" />
+        <item itemvalue="Application.Demo2charestReader" />
+        <item itemvalue="Application.Demo1Charset" />
+        <item itemvalue="Application.DemoFileBuff" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +170,22 @@
       <workItem from="1589674437547" duration="18365000" />
       <workItem from="1589981095667" duration="2289000" />
       <workItem from="1590064898009" duration="1241000" />
-      <workItem from="1590414448061" duration="1618000" />
+      <workItem from="1590414448061" duration="1647000" />
+      <workItem from="1591190383035" duration="194000" />
+      <workItem from="1591190614016" duration="216000" />
+      <workItem from="1591190857038" duration="10000" />
+      <workItem from="1591190880643" duration="14000" />
+      <workItem from="1591191134811" duration="2000" />
+      <workItem from="1591191158864" duration="303000" />
+      <workItem from="1591533981088" duration="9000" />
+      <workItem from="1591534001231" duration="12000" />
+      <workItem from="1591534025264" duration="4665000" />
+      <workItem from="1591619076610" duration="3963000" />
+      <workItem from="1591711320648" duration="608000" />
+      <workItem from="1591969991791" duration="927000" />
+      <workItem from="1592137221944" duration="509000" />
+      <workItem from="1592137757086" duration="1921000" />
+      <workItem from="1592618239571" duration="11890000" />
     </task>
     <task id="LOCAL-00001" summary="第二次">
       <created>1589075208099</created>
@@ -258,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589075208099</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="线程">
+      <created>1590416907821</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590416907821</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,21 +248,34 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第二次" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二次" />
+    <MESSAGE value="线程" />
+    <option name="LAST_COMMIT_MESSAGE" value="线程" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="586" y="203" key="#Inspections" timestamp="1592661046992">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="586" y="203" key="#Inspections/0.0.1920.1050@0.0.1920.1050" timestamp="1592661046992" />
     <state x="440" y="99" key="#Project_Structure" timestamp="1589079614126">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="440" y="99" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1589079614126" />
-    <state x="1195" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1589982936580">
+    <state x="927" y="630" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1591535308546">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1195" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1589982936580" />
-    <state x="779" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1589201337746">
+    <state x="927" y="630" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1591535308546" />
+    <state x="710" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592657630780">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="779" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1589201337746" />
+    <state x="710" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1592657630780" />
+    <state x="1195" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1592659530661">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1195" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1592659530661" />
+    <state x="779" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1592618774192">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="779" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1592618774192" />
     <state x="944" y="671" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1589625837849">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -328,46 +284,46 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="926" y="372" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1589077824774" />
-    <state width="1876" height="495" key="GridCell.Tab.0.bottom" timestamp="1590414725996">
+    <state width="1876" height="51" key="GridCell.Tab.0.bottom" timestamp="1592661995196">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="495" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590414725996" />
-    <state width="1876" height="495" key="GridCell.Tab.0.center" timestamp="1590414725996">
+    <state width="1876" height="51" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1592661995196" />
+    <state width="1876" height="51" key="GridCell.Tab.0.center" timestamp="1592661995195">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="495" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590414725996" />
-    <state width="1876" height="495" key="GridCell.Tab.0.left" timestamp="1590414725996">
+    <state width="1876" height="51" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1592661995195" />
+    <state width="1876" height="51" key="GridCell.Tab.0.left" timestamp="1592661995195">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="495" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590414725996" />
-    <state width="1876" height="495" key="GridCell.Tab.0.right" timestamp="1590414725996">
+    <state width="1876" height="51" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1592661995195" />
+    <state width="1876" height="51" key="GridCell.Tab.0.right" timestamp="1592661995195">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="495" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590414725996" />
-    <state width="1876" height="387" key="GridCell.Tab.1.bottom" timestamp="1590066139498">
+    <state width="1876" height="51" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1592661995195" />
+    <state width="1876" height="51" key="GridCell.Tab.1.bottom" timestamp="1592661995196">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="387" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590066139498" />
-    <state width="1876" height="387" key="GridCell.Tab.1.center" timestamp="1590066139497">
+    <state width="1876" height="51" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1592661995196" />
+    <state width="1876" height="51" key="GridCell.Tab.1.center" timestamp="1592661995196">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="387" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590066139497" />
-    <state width="1876" height="387" key="GridCell.Tab.1.left" timestamp="1590066139496">
+    <state width="1876" height="51" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1592661995196" />
+    <state width="1876" height="51" key="GridCell.Tab.1.left" timestamp="1592661995196">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="387" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590066139496" />
-    <state width="1876" height="387" key="GridCell.Tab.1.right" timestamp="1590066139498">
+    <state width="1876" height="51" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1592661995196" />
+    <state width="1876" height="51" key="GridCell.Tab.1.right" timestamp="1592661995196">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="387" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590066139498" />
-    <state x="517" y="185" width="1038" height="852" key="SettingsEditor" timestamp="1589613436500">
+    <state width="1876" height="51" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1592661995196" />
+    <state x="295" y="104" width="1038" height="852" key="SettingsEditor" timestamp="1592618801580">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="517" y="185" width="1038" height="852" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1589613436500" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1589075230988">
+    <state x="295" y="104" width="1038" height="852" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1592618801580" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1590416917154">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1589075230988" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1590416917154" />
     <state x="753" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589075219913">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -380,14 +336,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="334" y="134" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1589077447857" />
-    <state x="820" y="343" key="run.anything.popup" timestamp="1589678865865">
+    <state x="820" y="343" key="run.anything.popup" timestamp="1592660004266">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="820" y="343" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1589678865865" />
-    <state x="1079" y="366" width="672" height="678" key="search.everywhere.popup" timestamp="1590414497730">
+    <state x="820" y="343" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1592660004266" />
+    <state x="1079" y="366" width="672" height="678" key="search.everywhere.popup" timestamp="1592648560166">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1079" y="366" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1590414497730" />
+    <state x="1079" y="366" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1592648560166" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

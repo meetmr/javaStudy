@@ -2,8 +2,10 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Basics/资料/常量变量/04-计算机存储单位转换.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/Basics/资料/常量变量/06-命令提示符的常用命令.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Basics/资料/常量变量/08-关键字的概念举例和特征.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Basics/资料/常量变量/09-数据类型分类.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/gbk.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/object.txt" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
