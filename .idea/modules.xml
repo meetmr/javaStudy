@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/01基础加强/01基础加强.iml" filepath="$PROJECT_DIR$/01基础加强/01基础加强.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FacuntionInterface/FacuntionInterface.iml" filepath="$PROJECT_DIR$/FacuntionInterface/FacuntionInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionQuote/FunctionQuote.iml" filepath="$PROJECT_DIR$/FunctionQuote/FunctionQuote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAndMethodRefrernce/StreamAndMethodRefrernce.iml" filepath="$PROJECT_DIR$/StreamAndMethodRefrernce/StreamAndMethodRefrernce.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaStudy.iml" filepath="$PROJECT_DIR$/javaStudy.iml" />
     </modules>
   </component>
