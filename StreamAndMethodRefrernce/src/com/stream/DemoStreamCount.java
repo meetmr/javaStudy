@@ -13,5 +13,7 @@ public class DemoStreamCount {
             return Integer.parseInt(s);
         }).count();
         System.out.println(count);
+
+        Stream.of("1", "2", "3").map(Integer::parseInt).forEach(System.out::println);
     }
 }
